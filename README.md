@@ -1,12 +1,13 @@
 <!-- Banner: Có thể là một ảnh panorama thiên nhiên bạn chụp, hoặc ảnh GIF bầu trời đêm đầy sao -->
 <p align="center">
-  <img src="[URL TỚI ẢNH BANNER CỦA BẠN]" width="850"/>
+  [<img src="[[URL TỚI ẢNH BANNER CỦA BẠN]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fxaydungso.vn%2Fbai-viet-khac%2Ftong-hop-hinh-nen-thien-nhien-4k-dep-cho-may-tinh-day-mau-sac-va-song-dong-vi-cb.html&psig=AOvVaw0KlaEIg_dI89ipAbZ411Sh&ust=1762187446805000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjd3vjx05ADFQAAAAAdAAAAABAL)" width="850"/>]
 </p>
 
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=2E8B57&center=true&vCenter=true&width=600&lines=Hi!+I'm+Hiếu+Đặng%2C+a+lifelong+explorer...;Exploring+Nature+,+Technology+,+and+the+Self.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=2E8B57&center=true&vCenter=true&width=600&lines= Hi!+I'm+Hiếu+Đặng%2C+a+lifelong+explorer...;
+Exploring+Nature+,+Technology+,+and+the+Self.)](https://git.io/typing-svg)
 
 </div>
 
