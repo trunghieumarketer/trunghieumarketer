@@ -6,22 +6,20 @@
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=2E8B57&center=true&vCenter=true&width=600&lines= Hi!+I'm+Hiếu+Đặng%2C+a+lifelong+explorer...;
-Exploring+Nature+,+Technology+,+and+the+Self.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FAC6B&width=435&lines=Hello!+Welcome+to+my+profile!+;It's+nice+to+meet+you.)](https://git.io/typing-svg)
 </div>
 
 ---
 
-### 🌱 About Me: An Explorer at Heart
+🌱 About Me: An Explorer at Heart
 
 Hello! I'm a passionate explorer navigating the intersection of three fascinating worlds: the serenity of **Nature**, the endless possibilities of **Technology**, and the profound journey of **Self-discovery**.
 
 My professional path is in Marketing Analytics, where I use data to understand human behavior. But my personal quest is much broader—I seek to understand the world around me and the universe within me. Whether I'm hiking through a forest, coding a new project, or meditating on the nature of consciousness, I'm driven by a deep sense of curiosity.
 
-*   🏞️ **Naturalist:** Capturing the beauty of the wild through my camera lens.
-*   💻 **Technologist:** Eagerly learning new tools and frameworks to build and create.
-*   🧘 **Seeker:** Exploring the connection between Mind, Body, and Spirit (Thân - Tâm - Trí).
+🏞️ **Naturalist:** Capturing the beauty of the wild through my camera lens.
+💻 **Technologist:** Eagerly learning new tools and frameworks to build and create.
+🧘 **Seeker:** Exploring the connection between Mind, Body, and Spirit (Thân - Tâm - Trí).
 
 I believe the best innovations come from a holistic understanding of life. Let's connect and share our journeys!
 
@@ -31,56 +29,15 @@ I believe the best innovations come from a holistic understanding of life. Let's
 
 Here are some of my favorite moments captured during my adventures. Each photo tells a story of wonder and tranquility.
 
+<img width="3600" height="2459" alt="Thiết kế chưa có tên-2" src="https://github.com/user-attachments/assets/ee427540-f445-4a73-a382-e1e5e186e514" />
+
+
 
 ---
 
-### 🎶 My Current Soundtrack: Music for the Soul
-
-Music is the companion to my journey. Here's what's currently playing and some of my all-time favorites.
-
-<!-- Cách 1: Hiển thị ảnh bìa album Spotify -->
-<!-- Bạn vào Spotify -> Chia sẻ -> Sao chép liên kết mã nhúng Spotify -> Lấy URL từ trong src="" -->
+🎧 Now Listening On Spotify
 <p align="center">
-  <a href="[URL TỚI PLAYLIST/BÀI HÁT TRÊN SPOTIFY]">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=[SPOTIFY_USERNAME_CỦA_BẠN]" alt="Spotify Recently Played" width="400">
-  </a>
-  <a href="[URL TỚI PLAYLIST/BÀI HÁT TRÊN SPOTIFY]">
-    <img src="https://spotify-github-profile.vercel.app/api/v1/user/[SPOTIFY_USER_ID_CỦA_BẠN]/playlists" alt="My Spotify Playlists" width="400">
+  <a href="https://open.spotify.com/user/31em4c4zozdnchj2j4m4wohggwh4">
+    <img src="https://spotify-github-profile.vercel.app/api/v1/user/31em4c4zozdnchj2j4m4wohggwh4/now-playing?background_color=0d1117&border_color=30363d" alt="Spotify Now Playing" width="500">
   </a>
 </p>
-
-
-<!-- Cách 2: Một cách khác để hiển thị bài hát đang nghe -->
-<p align="center">
-  <a href="[URL TỚI PLAYLIST/BÀI HÁT TRÊN SPOTIFY]">
-    <img src="https://spotify-github-profile.vercel.app/api/v1/user/[SPOTIFY_USER_ID_CỦA_BẠN]/top-tracks?time_range=long_term" alt="My Top Tracks" width="500">
-  </a>
-</p>
-
-<!-- Cách 3: Đơn giản hơn, chỉ là một danh sách -->
-**My Favorite Tracks:**
-1.  **[Tên bài hát 1]** - [Nghệ sĩ] | [Link YouTube/Spotify]
-2.  **[Tên bài hát 2]** - [Nghệ sĩ] | [Link YouTube/Spotify]
-3.  **[Tên bài hát 3]** - [Nghệ sĩ] | [Link YouTube/Spotify]
-
----
-
-### 🛠️ Tech & Tools I'm Exploring
-
-<p align="center">
-  <!-- Thêm các icon công nghệ bạn đang học hoặc sử dụng -->
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Data Science" src="https://img.shields.io/badge/Data_Science-F37626?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-  <a href="#"><img alt="Mindfulness" src="https://img.shields.io/badge/Mindfulness-7C4DFF?style=for-the-badge&logo=headspace&logoColor=white"></a>
-</p>
-
-### 📬 Let's Connect
-
-I'm always open to new conversations and collaborations. Feel free to reach out!
-
-<p align="center">
-  <a href="mailto:[EMAIL CỦA BẠN]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[LINK FACEBOOK CỦA BẠN]"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="[LINK LINKEDIN CỦA BẠN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
