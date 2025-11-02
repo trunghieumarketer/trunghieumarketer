@@ -17,30 +17,3 @@ I am a dynamic Marketing student at EIU, driven by a passion for uncovering the 
 *   💬 Ask me about **Excel, Data Visualization, or Storytelling with Data**.
 *   📫 How to reach me: **hieu.dangho.bbs22@eiu.edu.vn**
 
-### 🛠️ My Toolkit
-
-<p align="left">
-  <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
-  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trunghieumarketer&show_icons=true&theme=tokyonight&rank_icon=github" alt="Hieu's GitHub Stats" />
-</p>
-
----
-
-### 🎬 Watch My Project Showcase
-
-<p align="center">
-  <a href="URL_VIDEO_YOUTUBE_CỦA_BẠN" target="_blank">
-    <img src="https://img.youtube.com/vi/ID_VIDEO_CỦA_BẠN/0.jpg" alt="Video Showcase" />
-  </a>
-</p>
