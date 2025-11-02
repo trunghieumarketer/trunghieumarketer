@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3FAC6B&width=435&lines=Hello!+Welcome+to+my+profile!+;It's+nice+to+meet+you.)](https://git.io/typing-svg)
 <!-- Banner giới thiệu -->
 <p align="center">
-<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/13d895c5-d756-47ce-a7c9-6d26a174c3cc" />
+![giphy](https://github.com/user-attachments/assets/6482f1f9-22d0-4bad-aee8-6834ae65ecb3)
 
 
 </div>
