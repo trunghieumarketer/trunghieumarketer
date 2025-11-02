@@ -31,27 +31,6 @@ I believe the best innovations come from a holistic understanding of life. Let's
 
 Here are some of my favorite moments captured during my adventures. Each photo tells a story of wonder and tranquility.
 
-<!-- Bố cục 4 hàng 3 cột cho 12 ảnh. Chiều rộng (width) 270px là lý tưởng để 3 ảnh nằm vừa vặn trên một hàng -->
-<p align="center">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 1]" width="270" alt="Nature Photo 1">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 2]" width="270" alt="Nature Photo 2">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 3]" width="270" alt="Nature Photo 3">
-</p>
-<p align="center">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 4]" width="270" alt="Nature Photo 4">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 5]" width="270" alt="Nature Photo 5">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 6]" width="270" alt="Nature Photo 6">
-</p>
-<p align="center">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 7]" width="270" alt="Nature Photo 7">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 8]" width="270" alt="Nature Photo 8">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 9]" width="270" alt="Nature Photo 9">
-</p>
-<p align="center">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 10]" width="270" alt="Nature Photo 10">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 11]" width="270" alt="Nature Photo 11">
-  <img src="[ĐƯỜNG DẪN TỚI ẢNH 12]" width="270" alt="Nature Photo 12">
-</p>
 
 ---
 
