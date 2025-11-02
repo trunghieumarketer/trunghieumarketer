@@ -28,9 +28,9 @@ Here are some of my favorite moments captured during my adventures. Each photo t
 
 
 ---
-
+<div align="center">
 🎧 Now Listening On Spotify
-<p align="center">
-  <a href= https://open.spotify.com/user/31em4c4zozdnchj2j4m4wohggwh4?si=623f1bd6e3854adf
-  </a>
-</p>
+<div align="center">
+<a href="https://open.spotify.com/user/31em4c4zozdnchj2j4m4wohggwh4?si=67a6a36bfada4c78">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile"/>
+</a>
