@@ -11,9 +11,9 @@ Hello! I'm a passionate explorer navigating the intersection of three fascinatin
 
 My professional path is in Marketing Analytics, where I use data to understand human behavior. But my personal quest is much broader—I seek to understand the world around me and the universe within me. Whether I'm hiking through a forest, coding a new project, or meditating on the nature of consciousness, I'm driven by a deep sense of curiosity.
 
-🏞️ **Naturalist:** Capturing the beauty of the wild through my camera lens.
-💻 **Technologist:** Eagerly learning new tools and frameworks to build and create.
-🧘 **Seeker:** Exploring the connection between Mind, Body, and Spirit (Thân - Tâm - Trí).
+  🏞️ **Naturalist:** Capturing the beauty of the wild through my camera lens.
+  💻 **Technologist:** Eagerly learning new tools and frameworks to build and create.
+  🧘 **Seeker:** Exploring the connection between Mind, Body, and Spirit (Thân - Tâm - Trí).
 
 I believe the best innovations come from a holistic understanding of life. Let's connect and share our journeys!
 
@@ -31,7 +31,6 @@ Here are some of my favorite moments captured during my adventures. Each photo t
 
 🎧 Now Listening On Spotify
 <p align="center">
-  <a href="https://open.spotify.com/user/31em4c4zozdnchj2j4m4wohggwh4">
-    <img src="https://spotify-github-profile.vercel.app/api/v1/user/31em4c4zozdnchj2j4m4wohggwh4/now-playing?background_color=0d1117&border_color=30363d" alt="Spotify Now Playing" width="500">
+  <a href= https://open.spotify.com/user/31em4c4zozdnchj2j4m4wohggwh4?si=623f1bd6e3854adf
   </a>
 </p>
